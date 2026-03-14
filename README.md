@@ -1,113 +1,172 @@
-<!-- Premium Header with Advanced Animations -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
+<!-- 🌟 WORLD-CLASS PORTFOLIO HEADER 🌟 -->
 <div align="center">
 
-<!-- 3D Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Premium Profile Card -->
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" alt="Profile Badge" width="120">
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&height=70&lines=BHARATH+RAJ+B" alt="Name Animation"/>
-</td>
-<td width="50%" align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="50">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🚀+Full-Stack+Developer+%7C+AI%2FML+Engineer;☕+Java+Specialist+%7C+Cloud+Architect;💡+Innovation+Driven+%7C+Problem+Solver" alt="Skills Animation"/>
-    <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="50">
-  </h1>
-</td>
-</tr>
-</table>
-
-<!-- Premium Status Badges -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30">
-  <strong><em>🌍 Crafting Digital Excellence from India | 🎯 Open to Opportunities</em></strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30">
-</p>
-
-<!-- Advanced Badge Grid -->
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/bharatn-b100">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub">
-  </a>
-</td>
-<td align="center">
-  <a href="https://linkedin.com/in/bharath-raj143">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn">
-  </a>
-</td>
-<td align="center">
-  <a href="https://bharathraj-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio">
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="mailto:ngtbharath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email">
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.hackerrank.com/bharath_raj_b">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866" alt="HackerRank">
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.leetcode.com/bharath_raj_b">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116" alt="LeetCode">
-  </a>
-</td>
-</tr>
+<!-- Premium Hero Section with Parallax Effect -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="background-size: cover; background-position: center; padding: 40px;">
+      <div align="center" style="background: rgba(13, 17, 23, 0.9); padding: 30px; border-radius: 20px; border: 2px solid #FF00FF; box-shadow: 0 0 30px rgba(255, 0, 255, 0.5);">
+        
+        <!-- Animated Welcome Banner -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=40&lines=🌟+WELCOME+TO+MY+DIGITAL+UNIVERSE+🌟" alt="Welcome Banner"/>
+        
+        <!-- Professional Profile Section -->
+        <table border="0" cellspacing="20" cellpadding="0">
+          <tr>
+            <!-- Left Column - Profile Image & Name -->
+            <td width="40%" align="center">
+              <div style="position: relative; display: inline-block;">
+                <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" alt="Professional Profile" width="150" style="border-radius: 50%; border: 4px solid #FF00FF; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7);"/>
+                <div style="position: absolute; bottom: 5px; right: 5px; background: #00FFFF; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center;">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="20"/>
+                </div>
+              </div>
+              <br><br>
+              <h1 style="margin: 0; padding: 0;">
+                <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=50&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=80&lines=BHARATH+RAJ+B" alt="Professional Name"/>
+              </h1>
+              <div style="margin-top: 10px;">
+                <img src="https://img.shields.io/badge/🎯-FULL_STACK_DEVELOPER-FF00FF?style=for-the-badge&logoColor=white&labelColor=FF00FF&color=FF00FF" alt="Title Badge"/>
+                <img src="https://img.shields.io/badge/🤖-AI_ML_ENGINEER-00FFFF?style=for-the-badge&logoColor=black&labelColor=00FFFF&color=00FFFF" alt="AI Badge"/>
+              </div>
+            </td>
+            
+            <!-- Right Column - Skills & Expertise -->
+            <td width="60%" align="center">
+              <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
+                <h3 style="color: #00FFFF; margin-bottom: 15px;">🚀 EXPERTISE PORTFOLIO</h3>
+                <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=☕+Java+Architecture+%7C+🎨+Frontend+Mastery;🤖+AI%2FML+Innovation+%7C+☁️+Cloud+Solutions;📱+Mobile+Development+%7C+💡+Digital+Transformation" alt="Skills Portfolio"/>
+              </div>
+              
+              <!-- Professional Status -->
+              <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+                <div style="background: linear-gradient(45deg, #FF00FF, #00FFFF); padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold;">
+                  🌍 INDIA | 🎯 OPEN TO OPPORTUNITIES
+                </div>
+                <div style="background: linear-gradient(45deg, #00FF88, #FF00FF); padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold;">
+                  💼 AVAILABLE FOR HIRE
+                </div>
+              </div>
+            </td>
+          </tr>
+        </table>
+        
+        <!-- Premium Contact & Social Links -->
+        <div style="margin-top: 30px;">
+          <table border="0" cellspacing="15" cellpadding="0">
+            <tr>
+              <td align="center">
+                <a href="https://linkedin.com/in/bharath-raj143" style="text-decoration: none;">
+                  <div style="background: #0077B5; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn"/>
+                    LinkedIn Professional
+                  </div>
+                </a>
+              </td>
+              <td align="center">
+                <a href="https://bharathraj-portfolio.vercel.app/" style="text-decoration: none;">
+                  <div style="background: #FF6B6B; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" alt="Portfolio"/>
+                    Live Portfolio
+                  </div>
+                </a>
+              </td>
+              <td align="center">
+                <a href="mailto:ngtbharath@gmail.com" style="text-decoration: none;">
+                  <div style="background: #EA4335; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
+                    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="20" alt="Email"/>
+                    Professional Email
+                  </div>
+                </a>
+              </td>
+            </tr>
+          </table>
+        </div>
+        
+      </div>
+    </td>
+  </tr>
 </table>
 
 <!-- Premium Stats Dashboard -->
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="GitHub Stats" height="200"/>
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatn-b100&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="Top Languages" height="200"/>
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="20" cellpadding="0" style="margin-top: 30px;">
+  <tr>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
+        <h4 style="margin: 0;">🔥 CODE STREAK</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=00000000&stroke=FFFFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" alt="Streak" width="100%"/>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white;">
+        <h4 style="margin: 0;">📊 GITHUB METRICS</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=FFFFFF&card_width=300" alt="Stats" width="100%"/>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
+        <h4 style="margin: 0;">🏆 ACHIEVEMENTS</h4>
+        <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=3&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Trophies" width="100%"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<!-- Trophy Showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Trophies" width="100%"/>
-</p>
+<!-- Advanced Activity Visualization -->
+<div style="margin: 30px 0;">
+  <h3 align="center" style="color: #FF00FF;">📈 DEVELOPMENT ACTIVITY HEATMAP</h3>
+  <div style="background: rgba(13, 17, 23, 0.8); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+  </div>
+</div>
 
-<!-- Advanced Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
+<!-- Premium Technology Stack Showcase -->
+<div style="margin: 30px 0;">
+  <h3 align="center" style="color: #00FFFF;">🛠️ TECHNOLOGY MASTERY</h3>
+  <table width="100%" border="0" cellspacing="15" cellpadding="0">
+    <tr>
+      <td style="background: rgba(255, 0, 255, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FF00FF;">
+        <h4 align="center" style="color: #FF00FF;">🎨 FRONTEND EXCELLENCE</h4>
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: rgba(0, 255, 255, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
+        <h4 align="center" style="color: #00FFFF;">☕ BACKEND MASTERY</h4>
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: rgba(255, 107, 107, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FF6B6B;">
+        <h4 align="center" style="color: #FF6B6B;">🤖 AI & CLOUD INNOVATION</h4>
+        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Premium Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharatn-b100&label=Premium+Visitors&color=FF00FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://profile-counter.glitch.me/bharatn-b100/count.svg" alt="Visitor Count"/>
-</p>
+</div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<!-- Premium Portfolio Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="margin: 30px 0;"/>
 </div>
 
 ---
