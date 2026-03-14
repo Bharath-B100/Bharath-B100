@@ -1,133 +1,170 @@
-<!-- 🌟 WORLD-CLASS PORTFOLIO HEADER 🌟 -->
+<!-- 🚀 NEXT-GENERATION PORTFOLIO EXPERIENCE 🚀 -->
 <div align="center">
 
-<!-- Premium Hero Section with Parallax Effect -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Ultimate Hero Section with Advanced Effects -->
+<table width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
   <tr>
-    <td background="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="background-size: cover; background-position: center; padding: 40px;">
-      <div align="center" style="background: rgba(13, 17, 23, 0.9); padding: 30px; border-radius: 20px; border: 2px solid #FF00FF; box-shadow: 0 0 30px rgba(255, 0, 255, 0.5);">
-        
-        <!-- Animated Welcome Banner -->
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=40&lines=🌟+WELCOME+TO+MY+DIGITAL+UNIVERSE+🌟" alt="Welcome Banner"/>
-        
-        <!-- Professional Profile Section -->
-        <table border="0" cellspacing="20" cellpadding="0">
-          <tr>
-            <!-- Left Column - Profile Image & Name -->
-            <td width="40%" align="center">
-              <div style="position: relative; display: inline-block;">
-                <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" alt="Professional Profile" width="150" style="border-radius: 50%; border: 4px solid #FF00FF; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7);"/>
-                <div style="position: absolute; bottom: 5px; right: 5px; background: #00FFFF; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center;">
-                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="20"/>
-                </div>
-              </div>
-              <br><br>
-              <h1 style="margin: 0; padding: 0;">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=50&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=80&lines=BHARATH+RAJ+B" alt="Professional Name"/>
-              </h1>
-              <div style="margin-top: 10px;">
-                <img src="https://img.shields.io/badge/🎯-FULL_STACK_DEVELOPER-FF00FF?style=for-the-badge&logoColor=white&labelColor=FF00FF&color=FF00FF" alt="Title Badge"/>
-                <img src="https://img.shields.io/badge/🤖-AI_ML_ENGINEER-00FFFF?style=for-the-badge&logoColor=black&labelColor=00FFFF&color=00FFFF" alt="AI Badge"/>
-              </div>
-            </td>
-            
-            <!-- Right Column - Skills & Expertise -->
-            <td width="60%" align="center">
-              <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
-                <h3 style="color: #00FFFF; margin-bottom: 15px;">🚀 EXPERTISE PORTFOLIO</h3>
-                <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=☕+Java+Architecture+%7C+🎨+Frontend+Mastery;🤖+AI%2FML+Innovation+%7C+☁️+Cloud+Solutions;📱+Mobile+Development+%7C+💡+Digital+Transformation" alt="Skills Portfolio"/>
-              </div>
-              
-              <!-- Professional Status -->
-              <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <div style="background: linear-gradient(45deg, #FF00FF, #00FFFF); padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold;">
-                  🌍 INDIA | 🎯 OPEN TO OPPORTUNITIES
-                </div>
-                <div style="background: linear-gradient(45deg, #00FF88, #FF00FF); padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold;">
-                  💼 AVAILABLE FOR HIRE
-                </div>
-              </div>
-            </td>
-          </tr>
-        </table>
-        
-        <!-- Premium Contact & Social Links -->
-        <div style="margin-top: 30px;">
-          <table border="0" cellspacing="15" cellpadding="0">
+    <td style="padding: 0;">
+      <!-- Animated Background Layer -->
+      <div style="position: relative; background: url('https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif') center/cover; padding: 60px 40px;">
+        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(102,126,234,0.6) 100%); padding: 50px; border-radius: 25px; backdrop-filter: blur(10px); border: 3px solid rgba(255,255,255,0.2);">
+          
+          <!-- Epic Welcome Animation -->
+          <div style="margin-bottom: 30px;">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&width=900&height=50&lines=⚡+ULTIMATE+DEVELOPER+PORTFOLIO+⚡" alt="Epic Welcome"/>
+          </div>
+          
+          <!-- Revolutionary Profile Layout -->
+          <table width="100%" border="0" cellspacing="30" cellpadding="0">
             <tr>
-              <td align="center">
-                <a href="https://linkedin.com/in/bharath-raj143" style="text-decoration: none;">
-                  <div style="background: #0077B5; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
-                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn"/>
-                    LinkedIn Professional
+              <!-- Left - 3D Profile Card -->
+              <td width="45%" align="center">
+                <div style="background: linear-gradient(145deg, #2d3748, #1a202c); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); transform: perspective(1000px) rotateY(-5deg);">
+                  <!-- Profile Image with Advanced Effects -->
+                  <div style="position: relative; display: inline-block; margin-bottom: 20px;">
+                    <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" 
+                         alt="Professional Avatar" 
+                         width="180" 
+                         style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4, #45B7D1); background-clip: padding-box; box-shadow: 0 0 40px rgba(255,215,0,0.6), 0 0 80px rgba(255,107,107,0.4);"/>
+                    <!-- Animated Status Ring -->
+                    <div style="position: absolute; top: -5px; right: -5px; width: 50px; height: 50px; background: linear-gradient(45deg, #00FF00, #00FFFF); border-radius: 50%; display: flex; align-items: center; justify-content: center; animation: pulse 2s infinite;">
+                      <span style="font-size: 20px;">🔥</span>
+                    </div>
                   </div>
-                </a>
+                  
+                  <!-- Dynamic Name Display -->
+                  <h1 style="margin: 0; font-size: 42px; font-weight: 900; background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
+                    BHARATH RAJ B
+                  </h1>
+                  
+                  <!-- Elite Badges -->
+                  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+                    <div style="background: linear-gradient(45deg, #FF6B6B, #FF8E53); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; box-shadow: 0 4px 15px rgba(255,107,107,0.4);">
+                      🚀 ELITE DEVELOPER
+                    </div>
+                    <div style="background: linear-gradient(45deg, #4ECDC4, #44A08D); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; box-shadow: 0 4px 15px rgba(78,205,196,0.4);">
+                      🤖 AI PIONEER
+                    </div>
+                  </div>
+                </div>
               </td>
-              <td align="center">
-                <a href="https://bharathraj-portfolio.vercel.app/" style="text-decoration: none;">
-                  <div style="background: #FF6B6B; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
-                    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" alt="Portfolio"/>
-                    Live Portfolio
+              
+              <!-- Right - Dynamic Skills Matrix -->
+              <td width="55%" align="center">
+                <div style="background: linear-gradient(145deg, #1a365d, #2c5282); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); transform: perspective(1000px) rotateY(5deg);">
+                  <h2 style="color: #FFD700; margin-bottom: 25px; font-size: 24px; text-shadow: 0 0 20px rgba(255,215,0,0.5);">
+                    � MASTERY MATRIX
+                  </h2>
+                  
+                  <!-- Animated Skills Display -->
+                  <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,215,0,0.3);">
+                    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=140&lines=⚡+Full-Stack+Architecture+%7C+☕+Java+Mastery;🤖+Machine+Learning+Expert+%7C+☁️+Cloud+Solutions;🎨+UI%2FUX+Excellence+%7C+📱+Mobile+Development;🔥+Performance+Optimization+%7C+💡+Innovation+Leader" alt="Skills Matrix"/>
                   </div>
-                </a>
-              </td>
-              <td align="center">
-                <a href="mailto:ngtbharath@gmail.com" style="text-decoration: none;">
-                  <div style="background: #EA4335; padding: 12px 25px; border-radius: 10px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
-                    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="20" alt="Email"/>
-                    Professional Email
+                  
+                  <!-- Live Status Panel -->
+                  <div style="margin-top: 25px; display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                    <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 15px; border-radius: 15px; text-align: center; color: white; font-weight: bold;">
+                      <div style="font-size: 20px;">🌍</div>
+                      <div>INDIA</div>
+                      <div style="font-size: 11px;">GLOBAL REACH</div>
+                    </div>
+                    <div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 15px; border-radius: 15px; text-align: center; color: white; font-weight: bold;">
+                      <div style="font-size: 20px;">💼</div>
+                      <div>AVAILABLE</div>
+                      <div style="font-size: 11px;">OPEN TO WORK</div>
+                    </div>
                   </div>
-                </a>
+                </div>
               </td>
             </tr>
           </table>
+          
+          <!-- Premium Contact Hub -->
+          <div style="margin-top: 40px;">
+            <h3 style="color: #FFD700; margin-bottom: 20px; font-size: 20px;">🔗 PREMIUM CONNECTIONS</h3>
+            <table width="100%" border="0" cellspacing="15" cellpadding="0">
+              <tr>
+                <td align="center">
+                  <a href="https://linkedin.com/in/bharath-raj143" style="text-decoration: none;">
+                    <div style="background: linear-gradient(135deg, #0077B5, #005885); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(0,119,181,0.4);">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+                      </svg>
+                      LinkedIn Professional
+                    </div>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://bharathraj-portfolio.vercel.app/" style="text-decoration: none;">
+                    <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(255,107,107,0.4);">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                      </svg>
+                      Live Portfolio
+                    </div>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="mailto:ngtbharath@gmail.com" style="text-decoration: none;">
+                    <div style="background: linear-gradient(135deg, #EA4335, #C5221F); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(234,67,53,0.4);">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+                      </svg>
+                      Professional Email
+                    </div>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </div>
+          
         </div>
-        
       </div>
     </td>
   </tr>
 </table>
 
-<!-- Premium Stats Dashboard -->
-<table width="100%" border="0" cellspacing="20" cellpadding="0" style="margin-top: 30px;">
-  <tr>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
-        <h4 style="margin: 0;">🔥 CODE STREAK</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=00000000&stroke=FFFFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" alt="Streak" width="100%"/>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white;">
-        <h4 style="margin: 0;">📊 GITHUB METRICS</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=FFFFFF&card_width=300" alt="Stats" width="100%"/>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
-        <h4 style="margin: 0;">🏆 ACHIEVEMENTS</h4>
-        <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=3&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Trophies" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Advanced Activity Visualization -->
-<div style="margin: 30px 0;">
-  <h3 align="center" style="color: #FF00FF;">📈 DEVELOPMENT ACTIVITY HEATMAP</h3>
-  <div style="background: rgba(13, 17, 23, 0.8); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
-  </div>
+<!-- Epic Stats Dashboard -->
+<div style="margin: 40px 0;">
+  <h2 style="color: #FFD700; text-align: center; margin-bottom: 30px; font-size: 28px; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
+    📊 PERFORMANCE ANALYTICS
+  </h2>
+  
+  <table width="100%" border="0" cellspacing="20" cellpadding="0">
+    <tr>
+      <td width="33%" align="center">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(102,126,234,0.4);">
+          <h3 style="color: white; margin: 0 0 15px 0;">🔥 STREAK MASTER</h3>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF" alt="Streak" width="100%"/>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(240,147,251,0.4);">
+          <h3 style="color: white; margin: 0 0 15px 0;">� GITHUB POWER</h3>
+          <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&border_color=FFFFFF&card_width=280" alt="Stats" width="100%"/>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(79,172,254,0.4);">
+          <h3 style="color: white; margin: 0 0 15px 0;">🏆 ACHIEVEMENTS</h3>
+          <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=3&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" alt="Trophies" width="100%"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Premium Technology Stack Showcase -->
-<div style="margin: 30px 0;">
-  <h3 align="center" style="color: #00FFFF;">🛠️ TECHNOLOGY MASTERY</h3>
-  <table width="100%" border="0" cellspacing="15" cellpadding="0">
+<!-- Advanced Technology Showcase -->
+<div style="margin: 40px 0;">
+  <h2 style="color: #FFD700; text-align: center; margin-bottom: 30px; font-size: 28px; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
+    🛠️ TECHNOLOGY ARSENAL
+  </h2>
+  
+  <table width="100%" border="0" cellspacing="20" cellpadding="0">
     <tr>
-      <td style="background: rgba(255, 0, 255, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FF00FF;">
-        <h4 align="center" style="color: #FF00FF;">🎨 FRONTEND EXCELLENCE</h4>
-        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255,107,107,0.4);">
+        <h3 style="color: white; text-align: center; margin-bottom: 20px;">🎨 FRONTEND MASTERY</h3>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -137,9 +174,9 @@
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(0, 255, 255, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #00FFFF;">
-        <h4 align="center" style="color: #00FFFF;">☕ BACKEND MASTERY</h4>
-        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(78,205,196,0.4);">
+        <h3 style="color: white; text-align: center; margin-bottom: 20px;">☕ BACKEND EXCELLENCE</h3>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -149,9 +186,9 @@
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(255, 107, 107, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FF6B6B;">
-        <h4 align="center" style="color: #FF6B6B;">🤖 AI & CLOUD INNOVATION</h4>
-        <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(102,126,234,0.4);">
+        <h3 style="color: white; text-align: center; margin-bottom: 20px;">🤖 AI & CLOUD INNOVATION</h3>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
           <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -164,9 +201,9 @@
 
 </div>
 
-<!-- Premium Portfolio Divider -->
+<!-- Epic Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="margin: 30px 0;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="margin: 40px 0; border-radius: 15px;"/>
 </div>
 
 ---
