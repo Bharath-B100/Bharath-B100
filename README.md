@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/bharath-raj143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="https://bharathraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4154?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF4154" /></a>
   <a href="mailto:ngtbharath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-  <a href="https://github.com/bharath-b100"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+  <a href="https://github.com/Bharath-B100"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 </div>
 
 ---
@@ -157,12 +157,12 @@
 
 <!-- TROPHY SECTION -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath-b100&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&bg_color=0D1117" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharath-B100&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&bg_color=0D1117" width="100%" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-B100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -174,7 +174,7 @@
     CONTRIBUTION // SNAKE
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" />
   </h2>
-  <img src="https://raw.githubusercontent.com/bharath-b100/bharath-b100/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Bharath-B100/Bharath-B100/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -204,7 +204,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" />
   </h2>
   <p>
-    <a href="https://github.com/bharath-b100"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/Bharath-B100"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://linkedin.com/in/bharath-raj143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:ngtbharath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
