@@ -1,77 +1,96 @@
-<!-- 🚀 NEXT-GENERATION PORTFOLIO EXPERIENCE 🚀 -->
+<!-- 🌠 COSMIC PORTFOLIO MASTERPIECE 🌠 -->
 <div align="center">
 
-<!-- Ultimate Hero Section with Advanced Effects -->
-<table width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
+<!-- INTERGALACTIC HERO SECTION -->
+<table width="100%" style="background: radial-gradient(circle at 20% 80%, #ff0080 0%, #7928ca 25%, #ff4d4d 50%, #ff0080 75%, #7928ca 100%); border-radius: 30px; overflow: hidden; box-shadow: 0 25px 80px rgba(255,0,128,0.4), inset 0 0 100px rgba(255,255,255,0.1); animation: cosmicGlow 3s ease-in-out infinite alternate;">
   <tr>
     <td style="padding: 0;">
-      <!-- Animated Background Layer -->
-      <div style="position: relative; background: url('https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif') center/cover; padding: 60px 40px;">
-        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(102,126,234,0.6) 100%); padding: 50px; border-radius: 25px; backdrop-filter: blur(10px); border: 3px solid rgba(255,255,255,0.2);">
+      <!-- QUANTUM BACKGROUND LAYER -->
+      <div style="position: relative; background: url('https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif') center/cover, linear-gradient(45deg, rgba(255,0,128,0.3), rgba(121,40,202,0.3)); padding: 80px 50px; background-blend-mode: screen;">
+        <div style="background: linear-gradient(135deg, rgba(0,0,0,0.9) 0%, rgba(255,0,128,0.4) 50%, rgba(121,40,202,0.6) 100%); padding: 60px; border-radius: 30px; backdrop-filter: blur(15px); border: 4px solid transparent; background-clip: padding-box; box-shadow: 0 20px 60px rgba(255,0,128,0.6), inset 0 0 50px rgba(255,255,255,0.1); position: relative; overflow: hidden;">
           
-          <!-- Epic Welcome Animation -->
-          <div style="margin-bottom: 30px;">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&width=900&height=50&lines=⚡+ULTIMATE+DEVELOPER+PORTFOLIO+⚡" alt="Epic Welcome"/>
+          <!-- NEURAL NETWORK ANIMATION -->
+          <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: url('https://user-images.githubusercontent.com/74038190/212284087-2f8c2e9a-5b4d-4a6b-9b6b-3b3b3b3b3b3b.gif') center/cover; opacity: 0.1; animation: neuralPulse 4s linear infinite;"></div>
+          
+          <!-- LEGENDARY WELCOME BANNER -->
+          <div style="margin-bottom: 40px; position: relative; z-index: 10;">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=32&duration=1000&pause=200&color=FF00FF&center=true&vCenter=true&width=1000&height=60&lines=🌠+LEGENDARY+DIGITAL+MAESTRO+🌠;💎+ELITE+FULL-STACK+ARCHITECT+💎;⚡+QUANTUM+DEVELOPMENT+EXPERT+⚡" alt="Legendary Welcome"/>
           </div>
           
-          <!-- Revolutionary Profile Layout -->
-          <table width="100%" border="0" cellspacing="30" cellpadding="0">
+          <!-- TRANSCENDENT PROFILE ARCHITECTURE -->
+          <table width="100%" border="0" cellspacing="40" cellpadding="0" style="position: relative; z-index: 10;">
             <tr>
-              <!-- Left - 3D Profile Card -->
+              <!-- LEFT - HOLOGRAPHIC PROFILE MATRIX -->
               <td width="45%" align="center">
-                <div style="background: linear-gradient(145deg, #2d3748, #1a202c); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); transform: perspective(1000px) rotateY(-5deg);">
-                  <!-- Profile Image with Advanced Effects -->
-                  <div style="position: relative; display: inline-block; margin-bottom: 20px;">
+                <div style="background: linear-gradient(145deg, #1a0033, #330066, #4d0099); padding: 40px; border-radius: 25px; box-shadow: 0 20px 50px rgba(255,0,255,0.6), inset 0 0 30px rgba(255,255,255,0.2), 0 0 100px rgba(255,0,255,0.3); transform: perspective(1200px) rotateY(-8deg) rotateX(2deg); position: relative; overflow: hidden;">
+                  
+                  <!-- COSMIC PARTICLE EFFECT -->
+                  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: conic-gradient(from 0deg, transparent, rgba(255,0,255,0.3), transparent, rgba(0,255,255,0.3), transparent); animation: cosmicRotate 10s linear infinite; z-index: -1;"></div>
+                  
+                  <!-- QUANTUM PROFILE IMAGE -->
+                  <div style="position: relative; display: inline-block; margin-bottom: 25px;">
                     <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" 
-                         alt="Professional Avatar" 
-                         width="180" 
-                         style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4, #45B7D1); background-clip: padding-box; box-shadow: 0 0 40px rgba(255,215,0,0.6), 0 0 80px rgba(255,107,107,0.4);"/>
-                    <!-- Animated Status Ring -->
-                    <div style="position: absolute; top: -5px; right: -5px; width: 50px; height: 50px; background: linear-gradient(45deg, #00FF00, #00FFFF); border-radius: 50%; display: flex; align-items: center; justify-content: center; animation: pulse 2s infinite;">
-                      <span style="font-size: 20px;">🔥</span>
+                         alt="Quantum Avatar" 
+                         width="200" 
+                         style="border-radius: 50%; border: 8px solid transparent; background: linear-gradient(45deg, #FF00FF, #00FFFF, #FFD700, #FF00FF); background-clip: padding-box; box-shadow: 0 0 60px rgba(255,0,255,0.8), 0 0 120px rgba(0,255,255,0.6), inset 0 0 30px rgba(255,215,0,0.8); animation: quantumPulse 2s ease-in-out infinite;"/>
+                    
+                    <!-- DIMENSIONAL STATUS CORE -->
+                    <div style="position: absolute; top: -10px; right: -10px; width: 60px; height: 60px; background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4, #45B7D1); border-radius: 50%; display: flex; align-items: center; justify-content: center; animation: dimensionalShift 3s ease-in-out infinite; box-shadow: 0 0 40px rgba(255,215,0,0.8);">
+                      <span style="font-size: 24px; animation: iconRotate 4s linear infinite;">🌟</span>
                     </div>
+                    
+                    <!-- ORBITAL RINGS -->
+                    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 250px; height: 250px; border: 2px solid rgba(255,0,255,0.3); border-radius: 50%; animation: orbitRotate 20s linear infinite;"></div>
+                    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 280px; height: 280px; border: 1px solid rgba(0,255,255,0.2); border-radius: 50%; animation: orbitRotate 25s linear infinite reverse;"></div>
                   </div>
                   
-                  <!-- Dynamic Name Display -->
-                  <h1 style="margin: 0; font-size: 42px; font-weight: 900; background: linear-gradient(45deg, #FFD700, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
+                  <!-- MULTIVERSE NAME DISPLAY -->
+                  <h1 style="margin: 0; font-size: 48px; font-weight: 900; background: linear-gradient(45deg, #FF00FF, #00FFFF, #FFD700, #FF00FF, #00FFFF); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 50px rgba(255,0,255,0.8); animation: gradientShift 4s ease-in-out infinite;">
                     BHARATH RAJ B
                   </h1>
                   
-                  <!-- Elite Badges -->
-                  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-                    <div style="background: linear-gradient(45deg, #FF6B6B, #FF8E53); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; box-shadow: 0 4px 15px rgba(255,107,107,0.4);">
-                      🚀 ELITE DEVELOPER
+                  <!-- COSMIC RANK BADGES -->
+                  <div style="margin-top: 25px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+                    <div style="background: linear-gradient(45deg, #FF00FF, #7928CA); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold; font-size: 14px; box-shadow: 0 8px 25px rgba(255,0,255,0.6), inset 0 0 20px rgba(255,255,255,0.3); animation: badgeGlow 2s ease-in-out infinite alternate;">
+                      🚀 QUANTUM ARCHITECT
                     </div>
-                    <div style="background: linear-gradient(45deg, #4ECDC4, #44A08D); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; font-size: 12px; box-shadow: 0 4px 15px rgba(78,205,196,0.4);">
-                      🤖 AI PIONEER
+                    <div style="background: linear-gradient(45deg, #00FFFF, #0099FF); padding: 12px 20px; border-radius: 25px; color: white; font-weight: bold; font-size: 14px; box-shadow: 0 8px 25px rgba(0,255,255,0.6), inset 0 0 20px rgba(255,255,255,0.3); animation: badgeGlow 2s ease-in-out infinite alternate 0.5s;">
+                      🤖 AI VISIONARY
+                    </div>
+                    <div style="background: linear-gradient(45deg, #FFD700, #FFA500); padding: 12px 20px; border-radius: 25px; color: #1a0033; font-weight: bold; font-size: 14px; box-shadow: 0 8px 25px rgba(255,215,0,0.6), inset 0 0 20px rgba(255,255,255,0.5); animation: badgeGlow 2s ease-in-out infinite alternate 1s;">
+                      💎 ELITE INNOVATOR
                     </div>
                   </div>
                 </div>
               </td>
               
-              <!-- Right - Dynamic Skills Matrix -->
+              <!-- RIGHT - DIMENSIONAL SKILLS HOLOGRAM -->
               <td width="55%" align="center">
-                <div style="background: linear-gradient(145deg, #1a365d, #2c5282); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); transform: perspective(1000px) rotateY(5deg);">
-                  <h2 style="color: #FFD700; margin-bottom: 25px; font-size: 24px; text-shadow: 0 0 20px rgba(255,215,0,0.5);">
-                    � MASTERY MATRIX
+                <div style="background: linear-gradient(145deg, #001a33, #003366, #004080); padding: 40px; border-radius: 25px; box-shadow: 0 20px 50px rgba(0,255,255,0.6), inset 0 0 30px rgba(255,255,255,0.2), 0 0 100px rgba(0,255,255,0.3); transform: perspective(1200px) rotateY(8deg) rotateX(-2deg); position: relative; overflow: hidden;">
+                  
+                  <!-- DATA STREAM EFFECT -->
+                  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(180deg, transparent, rgba(0,255,255,0.1), transparent); animation: dataStream 3s linear infinite; z-index: -1;"></div>
+                  
+                  <h2 style="color: #00FFFF; margin-bottom: 30px; font-size: 28px; text-shadow: 0 0 30px rgba(0,255,255,0.8); animation: textGlow 2s ease-in-out infinite alternate;">
+                    🌌 COSMIC SKILLS MATRIX
                   </h2>
                   
-                  <!-- Animated Skills Display -->
-                  <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(255,215,0,0.3);">
-                    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=140&lines=⚡+Full-Stack+Architecture+%7C+☕+Java+Mastery;🤖+Machine+Learning+Expert+%7C+☁️+Cloud+Solutions;🎨+UI%2FUX+Excellence+%7C+📱+Mobile+Development;🔥+Performance+Optimization+%7C+💡+Innovation+Leader" alt="Skills Matrix"/>
+                  <!-- HYPERDIMENSIONAL SKILLS DISPLAY -->
+                  <div style="background: linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,255,255,0.1)); padding: 25px; border-radius: 20px; border: 2px solid rgba(0,255,255,0.4); backdrop-filter: blur(10px); box-shadow: inset 0 0 30px rgba(0,255,255,0.2);">
+                    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=1500&pause=600&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=160&lines=⚡+Quantum+Full-Stack+Mastery+%7C+☕+Java+Dimension;🤖+Neural+Network+Architect+%7C+☁️+Cloud+Quantum+Computing;🎨+UI%2FUX+Dimension+Design+%7C+📱+Mobile+Multiverse;🔥+Performance+Quantum+Optimization+%7C+💡+Innovation+Nebula;🌟+Blockchain+Integration+%7C+🚀+Space+Architecture" alt="Cosmic Skills Matrix"/>
                   </div>
                   
-                  <!-- Live Status Panel -->
-                  <div style="margin-top: 25px; display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
-                    <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 15px; border-radius: 15px; text-align: center; color: white; font-weight: bold;">
-                      <div style="font-size: 20px;">🌍</div>
-                      <div>INDIA</div>
-                      <div style="font-size: 11px;">GLOBAL REACH</div>
+                  <!-- QUANTUM STATUS GRID -->
+                  <div style="margin-top: 30px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                    <div style="background: linear-gradient(135deg, #FF00FF, #7928CA); padding: 20px; border-radius: 20px; text-align: center; color: white; font-weight: bold; box-shadow: 0 10px 30px rgba(255,0,255,0.6), inset 0 0 20px rgba(255,255,255,0.3); animation: statusPulse 3s ease-in-out infinite;">
+                      <div style="font-size: 24px; animation: iconFloat 3s ease-in-out infinite;">🌍</div>
+                      <div style="font-size: 16px; margin-top: 8px;">INDIA</div>
+                      <div style="font-size: 12px; opacity: 0.9;">COSMIC HQ</div>
                     </div>
-                    <div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 15px; border-radius: 15px; text-align: center; color: white; font-weight: bold;">
-                      <div style="font-size: 20px;">💼</div>
-                      <div>AVAILABLE</div>
-                      <div style="font-size: 11px;">OPEN TO WORK</div>
+                    <div style="background: linear-gradient(135deg, #00FFFF, #0099FF); padding: 20px; border-radius: 20px; text-align: center; color: white; font-weight: bold; box-shadow: 0 10px 30px rgba(0,255,255,0.6), inset 0 0 20px rgba(255,255,255,0.3); animation: statusPulse 3s ease-in-out infinite 1.5s;">
+                      <div style="font-size: 24px; animation: iconFloat 3s ease-in-out infinite 1.5s;">💼</div>
+                      <div style="font-size: 16px; margin-top: 8px;">AVAILABLE</div>
+                      <div style="font-size: 12px; opacity: 0.9;">QUANTUM READY</div>
                     </div>
                   </div>
                 </div>
@@ -79,38 +98,40 @@
             </tr>
           </table>
           
-          <!-- Premium Contact Hub -->
-          <div style="margin-top: 40px;">
-            <h3 style="color: #FFD700; margin-bottom: 20px; font-size: 20px;">🔗 PREMIUM CONNECTIONS</h3>
-            <table width="100%" border="0" cellspacing="15" cellpadding="0">
+          <!-- INTERDIMENSIONAL CONTACT NEXUS -->
+          <div style="margin-top: 50px; position: relative; z-index: 10;">
+            <h3 style="color: #FFD700; margin-bottom: 25px; font-size: 24px; text-shadow: 0 0 40px rgba(255,215,0,0.8); animation: titlePulse 2s ease-in-out infinite;">
+              🌌 INTERDIMENSIONAL CONNECTIONS
+            </h3>
+            <table width="100%" border="0" cellspacing="20" cellpadding="0">
               <tr>
                 <td align="center">
                   <a href="https://linkedin.com/in/bharath-raj143" style="text-decoration: none;">
-                    <div style="background: linear-gradient(135deg, #0077B5, #005885); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(0,119,181,0.4);">
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <div style="background: linear-gradient(135deg, #0077B5, #005885, #003d5c); padding: 18px 35px; border-radius: 20px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.4s; box-shadow: 0 12px 35px rgba(0,119,181,0.6), inset 0 0 25px rgba(255,255,255,0.2); animation: buttonGlow 3s ease-in-out infinite;">
+                      <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" style="animation: iconRotate 6s linear infinite;">
                         <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
                       </svg>
-                      LinkedIn Professional
+                      <span style="font-size: 16px;">LinkedIn Quantum</span>
                     </div>
                   </a>
                 </td>
                 <td align="center">
                   <a href="https://bharathraj-portfolio.vercel.app/" style="text-decoration: none;">
-                    <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(255,107,107,0.4);">
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E53, #FFA500); padding: 18px 35px; border-radius: 20px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.4s; box-shadow: 0 12px 35px rgba(255,107,107,0.6), inset 0 0 25px rgba(255,255,255,0.2); animation: buttonGlow 3s ease-in-out infinite 1s;">
+                      <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" style="animation: iconRotate 6s linear infinite 2s;">
                         <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
                       </svg>
-                      Live Portfolio
+                      <span style="font-size: 16px;">Cosmic Portfolio</span>
                     </div>
                   </a>
                 </td>
                 <td align="center">
                   <a href="mailto:ngtbharath@gmail.com" style="text-decoration: none;">
-                    <div style="background: linear-gradient(135deg, #EA4335, #C5221F); padding: 15px 30px; border-radius: 15px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 10px; transition: all 0.3s; box-shadow: 0 8px 25px rgba(234,67,53,0.4);">
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <div style="background: linear-gradient(135deg, #EA4335, #C5221F, #B71C1C); padding: 18px 35px; border-radius: 20px; color: white; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.4s; box-shadow: 0 12px 35px rgba(234,67,53,0.6), inset 0 0 25px rgba(255,255,255,0.2); animation: buttonGlow 3s ease-in-out infinite 2s;">
+                      <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" style="animation: iconRotate 6s linear infinite 4s;">
                         <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
                       </svg>
-                      Professional Email
+                      <span style="font-size: 16px;">Quantum Email</span>
                     </div>
                   </a>
                 </td>
@@ -124,47 +145,114 @@
   </tr>
 </table>
 
-<!-- Epic Stats Dashboard -->
-<div style="margin: 40px 0;">
-  <h2 style="color: #FFD700; text-align: center; margin-bottom: 30px; font-size: 28px; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
-    📊 PERFORMANCE ANALYTICS
+<!-- COSMIC STYLES -->
+<style>
+@keyframes cosmicGlow {
+  0% { box-shadow: 0 25px 80px rgba(255,0,128,0.4), inset 0 0 100px rgba(255,255,255,0.1); }
+  100% { box-shadow: 0 25px 80px rgba(121,40,202,0.6), inset 0 0 100px rgba(255,255,255,0.2); }
+}
+@keyframes neuralPulse {
+  0% { opacity: 0.1; }
+  50% { opacity: 0.2; }
+  100% { opacity: 0.1; }
+}
+@keyframes cosmicRotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes quantumPulse {
+  0%, 100% { transform: scale(1); box-shadow: 0 0 60px rgba(255,0,255,0.8), 0 0 120px rgba(0,255,255,0.6); }
+  50% { transform: scale(1.05); box-shadow: 0 0 80px rgba(255,0,255,1), 0 0 150px rgba(0,255,255,0.8); }
+}
+@keyframes dimensionalShift {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.1) rotate(90deg); }
+  50% { transform: scale(1) rotate(180deg); }
+  75% { transform: scale(1.1) rotate(270deg); }
+}
+@keyframes orbitRotate {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+@keyframes gradientShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+@keyframes badgeGlow {
+  0% { box-shadow: 0 8px 25px rgba(255,0,255,0.6), inset 0 0 20px rgba(255,255,255,0.3); }
+  100% { box-shadow: 0 8px 35px rgba(255,0,255,0.9), inset 0 0 30px rgba(255,255,255,0.5); }
+}
+@keyframes dataStream {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100%); }
+}
+@keyframes textGlow {
+  0% { text-shadow: 0 0 30px rgba(0,255,255,0.8); }
+  100% { text-shadow: 0 0 50px rgba(0,255,255,1), 0 0 70px rgba(0,255,255,0.5); }
+}
+@keyframes statusPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+@keyframes iconFloat {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes buttonGlow {
+  0%, 100% { box-shadow: 0 12px 35px rgba(0,119,181,0.6), inset 0 0 25px rgba(255,255,255,0.2); }
+  50% { box-shadow: 0 12px 45px rgba(0,119,181,0.9), inset 0 0 35px rgba(255,255,255,0.4); }
+}
+@keyframes iconRotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes titlePulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+}
+</style>
+
+<!-- QUANTUM STATS DASHBOARD -->
+<div style="margin: 50px 0;">
+  <h2 style="color: #FF00FF; text-align: center; margin-bottom: 40px; font-size: 32px; text-shadow: 0 0 50px rgba(255,0,255,0.8); animation: titlePulse 2s ease-in-out infinite;">
+    🌠 QUANTUM PERFORMANCE METRICS
   </h2>
   
-  <table width="100%" border="0" cellspacing="20" cellpadding="0">
+  <table width="100%" border="0" cellspacing="25" cellpadding="0">
     <tr>
       <td width="33%" align="center">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(102,126,234,0.4);">
-          <h3 style="color: white; margin: 0 0 15px 0;">🔥 STREAK MASTER</h3>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF" alt="Streak" width="100%"/>
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #667eea 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(102,126,234,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 4s ease-in-out infinite;">
+          <h3 style="color: white; margin: 0 0 20px 0; font-size: 20px; text-shadow: 0 0 20px rgba(255,255,255,0.8);">🔥 QUANTUM STREAK</h3>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=00000000&stroke=FFFFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" alt="Quantum Streak" width="100%"/>
         </div>
       </td>
       <td width="33%" align="center">
-        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(240,147,251,0.4);">
-          <h3 style="color: white; margin: 0 0 15px 0;">� GITHUB POWER</h3>
-          <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&border_color=FFFFFF&card_width=280" alt="Stats" width="100%"/>
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #f093fb 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(240,147,251,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 4s ease-in-out infinite 1.3s;">
+          <h3 style="color: white; margin: 0 0 20px 0; font-size: 20px; text-shadow: 0 0 20px rgba(255,255,255,0.8);">📈 COSMIC STATS</h3>
+          <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=FFFFFF&card_width=300" alt="Cosmic Stats" width="100%"/>
         </div>
       </td>
       <td width="33%" align="center">
-        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(79,172,254,0.4);">
-          <h3 style="color: white; margin: 0 0 15px 0;">🏆 ACHIEVEMENTS</h3>
-          <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=3&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" alt="Trophies" width="100%"/>
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 50%, #4facfe 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(79,172,254,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 4s ease-in-out infinite 2.6s;">
+          <h3 style="color: white; margin: 0 0 20px 0; font-size: 20px; text-shadow: 0 0 20px rgba(255,255,255,0.8);">🏆 DIMENSIONAL TROPHIES</h3>
+          <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=3&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF00FF" alt="Dimensional Trophies" width="100%"/>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Advanced Technology Showcase -->
-<div style="margin: 40px 0;">
-  <h2 style="color: #FFD700; text-align: center; margin-bottom: 30px; font-size: 28px; text-shadow: 0 0 30px rgba(255,215,0,0.5);">
-    🛠️ TECHNOLOGY ARSENAL
+<!-- NEURAL TECHNOLOGY ARSENAL -->
+<div style="margin: 50px 0;">
+  <h2 style="color: #00FFFF; text-align: center; margin-bottom: 40px; font-size: 32px; text-shadow: 0 0 50px rgba(0,255,255,0.8); animation: titlePulse 2s ease-in-out infinite;">
+    🛠️ NEURAL TECHNOLOGY ARSENAL
   </h2>
   
-  <table width="100%" border="0" cellspacing="20" cellpadding="0">
+  <table width="100%" border="0" cellspacing="25" cellpadding="0">
     <tr>
-      <td style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255,107,107,0.4);">
-        <h3 style="color: white; text-align: center; margin-bottom: 20px;">🎨 FRONTEND MASTERY</h3>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #FF00FF, #7928CA, #FF00FF); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(255,0,255,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 5s ease-in-out infinite;">
+        <h3 style="color: white; text-align: center; margin-bottom: 25px; font-size: 22px; text-shadow: 0 0 30px rgba(255,255,255,0.8);">🎨 QUANTUM FRONTEND</h3>
+        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -174,9 +262,9 @@
       </td>
     </tr>
     <tr>
-      <td style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(78,205,196,0.4);">
-        <h3 style="color: white; text-align: center; margin-bottom: 20px;">☕ BACKEND EXCELLENCE</h3>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #00FFFF, #0099FF, #00FFFF); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(0,255,255,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 5s ease-in-out infinite 1.6s;">
+        <h3 style="color: white; text-align: center; margin-bottom: 25px; font-size: 22px; text-shadow: 0 0 30px rgba(255,255,255,0.8);">☕ DIMENSIONAL BACKEND</h3>
+        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -186,9 +274,9 @@
       </td>
     </tr>
     <tr>
-      <td style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(102,126,234,0.4);">
-        <h3 style="color: white; text-align: center; margin-bottom: 20px;">🤖 AI & CLOUD INNOVATION</h3>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+      <td style="background: linear-gradient(135deg, #FFD700, #FFA500, #FFD700); padding: 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(255,215,0,0.6), inset 0 0 30px rgba(255,255,255,0.3); animation: cosmicGlow 5s ease-in-out infinite 3.2s;">
+        <h3 style="color: #1a0033; text-align: center; margin-bottom: 25px; font-size: 22px; text-shadow: 0 0 30px rgba(255,255,255,0.8);">🤖 COSMIC AI & CLOUD</h3>
+        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
           <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -201,9 +289,9 @@
 
 </div>
 
-<!-- Epic Divider -->
+<!-- COSMIC DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="margin: 40px 0; border-radius: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="margin: 50px 0; border-radius: 20px; box-shadow: 0 20px 60px rgba(255,0,255,0.4);"/>
 </div>
 
 ---
