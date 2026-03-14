@@ -1,231 +1,374 @@
+<!-- Premium Header with Advanced Animations -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋,+I'm+Bharath+Raj+B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  
-  <!-- Profile Badge -->
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" alt="Profile Badge" width="100"/>
-  
-  <!-- Main Title with Gradient Effect -->
+
+<!-- 3D Animated Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Premium Profile Card -->
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f294945.png" alt="Profile Badge" width="120">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&height=70&lines=BHARATH+RAJ+B" alt="Name Animation"/>
+</td>
+<td width="50%" align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=500&height=60&lines=Bharath+Raj+B" alt="Title Animation" /></a>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="50">
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🚀+Full-Stack+Developer+%7C+AI%2FML+Engineer;☕+Java+Specialist+%7C+Cloud+Architect;💡+Innovation+Driven+%7C+Problem+Solver" alt="Skills Animation"/>
+    <br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="50">
   </h1>
-  
-  <!-- Professional Tagline -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Passionate+Frontend+Developer+%7C+AI%2FML+Enthusiast+%7C+Java+Expert;Full-Stack+Developer+%7C+Cloud+Architect+%7C+Innovation+Driven" alt="Tagline Animation" /></a>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" />
-  </h3>
-  
-  <!-- Location and Mission -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" />
-    <strong>🌍 Building innovative digital experiences from India</strong>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" />
-  </p>
-  
-  <!-- Status Badges -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="20" height="20" />
-    <strong>Available for Hire & Collaboration</strong>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="20" height="20" />
-  </p>
-  
-  <!-- Professional Badges -->
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    [![Profile Views](https://komarev.com/ghpvc/?username=bharatn-b100&label=Profile%20Views&color=00FF88&style=for-the-badge)](https://github.com/bharatn-b100)
-    [![GitHub followers](https://img.shields.io/github/followers/bharatn-b100?style=for-the-badge&label=Followers&color=FF00FF&logo=github)](https://github.com/bharatn-b100?tab=followers)
-    [![GitHub stars](https://img.shields.io/github/stars/bharatn-b100?style=for-the-badge&label=Stars&color=00FFFF&logo=github)](https://github.com/bharatn-b100?tab=repositories)
-  </div>
-  
-  <!-- Social Links with Modern Badges -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://linkedin.com/in/bharath-raj143" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" height="35"/>
-    </a>
-    <a href="https://bharathraj-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722&color=FF5722" alt="Portfolio" height="35"/>
-    </a>
-    <a href="mailto:ngtbharath@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" height="35"/>
-    </a>
-  </div>
-  
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-  <!-- Quick Stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" alt="GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatn-b100&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
-  </div>
-  
-  <!-- Trophy Section -->
-  <div style="margin: 20px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-  </div>
-  
-  <!-- Visitor Counter -->
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/bharatn-b100/count.svg" alt="Visitor Count"/>
-  </div>
-  
+</td>
+</tr>
+</table>
+
+<!-- Premium Status Badges -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30">
+  <strong><em>🌍 Crafting Digital Excellence from India | 🎯 Open to Opportunities</em></strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30">
+</p>
+
+<!-- Advanced Badge Grid -->
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/bharatn-b100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub">
+  </a>
+</td>
+<td align="center">
+  <a href="https://linkedin.com/in/bharath-raj143">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn">
+  </a>
+</td>
+<td align="center">
+  <a href="https://bharathraj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio">
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="mailto:ngtbharath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email">
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.hackerrank.com/bharath_raj_b">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866" alt="HackerRank">
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.leetcode.com/bharath_raj_b">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116" alt="LeetCode">
+  </a>
+</td>
+</tr>
+</table>
+
+<!-- Premium Stats Dashboard -->
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="GitHub Stats" height="200"/>
+</td>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatn-b100&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="Top Languages" height="200"/>
+</td>
+</tr>
+</table>
+
+<!-- Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatn-b100&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Trophies" width="100%"/>
+</p>
+
+<!-- Advanced Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<!-- Premium Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharatn-b100&label=Premium+Visitors&color=FF00FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/bharatn-b100/count.svg" alt="Visitor Count"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
 
 ---
 
-## 🎯 About Me
-
-I'm a **passionate frontend developer** with a strong foundation in **Java** and a growing expertise in **AI & Machine Learning**. I love creating beautiful, functional web applications that solve real-world problems. Currently exploring the intersection of tourism technology and modern web development.
-
----
-
-## 🏆 GitHub Achievements
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bharatn-b100&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy?username=bharatn-b100)
-
----
-
-## 💼 What I'm Doing
-
-- 🔭 **Currently Working On:** Innovative **Tourism** applications
-- 🌱 **Currently Learning:** **Artificial Intelligence & Machine Learning**
-- 👯 **Looking to Collaborate On:** Exciting **New Projects** and Open Source
-- 💡 **Interested In:** Full-stack development, Cloud architecture, and AI integration
-- 🎯 **Goal:** Build products that make a difference
-
----
-
-## 🌐 Portfolio & Projects
-
-👨‍💻 **Explore my work:** [https://bharathraj-portfolio.vercel.app/](https://bharathraj-portfolio.vercel.app/)
-
----
-
-## 💬 Expertise & Interests
-
-- 💬 **Ask me about:** **Java**, Frontend Development, Web Technologies
-- 📚 **Currently Reading:** Advanced AI/ML concepts
-- 🎨 **Design Philosophy:** Clean, responsive, user-centric interfaces
-
----
-
-## 📧 Let's Connect
-
-📫 **How to reach me:** `ngtbharath@gmail.com`
-
-🤝 **Open to opportunities** and collaborations in frontend development and AI/ML projects.
-
----
-
-## 🌐 Connect With Me
+## 🎯 **About Me - The Professional Story**
 
 <div align="center">
-  <a href="https://linkedin.com/in/bharath-raj143" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://instagram.com/krs" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/bharath_raj_b" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/bharath_raj_b" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="40">
 </div>
 
----
-
-## 🛠️ Technical Arsenal
-
-### 🎨 Frontend Development
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-</p>
-
-### ☕ Backend & Programming
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  </a>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-</p>
-
-### 📱 Mobile & Other Technologies
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
+I'm a **passionate full-stack developer** with **expert-level Java skills** and a **growing mastery in AI & Machine Learning**. My journey is driven by the desire to create **beautiful, functional web applications** that solve **real-world problems**. Currently pioneering innovative solutions at the **intersection of tourism technology and modern web development**.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="bharatn-b100"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatn-b100&show_icons=true&locale=en&layout=compact&theme=radical" alt="bharatn-b100"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="40">
 </div>
 
+## 🏆 **GitHub Achievements & Recognition**
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical" alt="bharatn-b100"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="40">
+</div>
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bharatn-b100&margin-w=15&margin-h=15&theme=radical&no-frame=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF)](https://github.com/ryo-ma/github-profile-trophy?username=bharatn-b100)
+
+---
+
+## 💼 **Current Professional Focus**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="60">
+        <h4>🔭 Current Project</h4>
+        <p><strong>Revolutionary Tourism Apps</strong></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60">
+        <h4>🌱 Learning Path</h4>
+        <p><strong>AI & Machine Learning</strong></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Handshake.png" width="60">
+        <h4>👯 Collaboration</h4>
+        <p><strong>Open Source & Innovation</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60">
+        <h4>💡 Interests</h4>
+        <p><strong>Full-Stack & Cloud</strong></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Target.png" width="60">
+        <h4>🎯 Mission</h4>
+        <p><strong>Impactful Solutions</strong></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60">
+        <h4>🚀 Vision</h4>
+        <p><strong>Digital Excellence</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🌐 **Portfolio & Professional Work**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40">
+</div>
+
+👨‍💻 **Explore My Professional Portfolio:** 
+<p align="center">
+  <a href="https://bharathraj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🎨%20Portfolio-Live%20Site-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio" height="40"/>
+  </a>
+</p>
+
+---
+
+## 💬 **Expertise & Professional Interests**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stack%20of%20Books.png" width="50">
+        <h4>💬 Core Expertise</h4>
+        <p><strong>Java | Frontend Dev</strong><br><strong>Web Technologies</strong></p>
+      </td>
+      <td align="center" width="250">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Book.png" width="50">
+        <h4>📚 Current Learning</h4>
+        <p><strong>Advanced AI/ML</strong><br><strong>Deep Learning Concepts</strong></p>
+      </td>
+      <td align="center" width="250">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="50">
+        <h4>🎨 Design Philosophy</h4>
+        <p><strong>Clean & Responsive</strong><br><strong>User-Centric Interfaces</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📧 **Professional Contact & Opportunities**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="40">
+</div>
+
+📫 **Professional Email:** `ngtbharath@gmail.com`
+
+🤝 **Open To:**
+- Full-time opportunities
+- Freelance projects
+- Technical collaborations
+- Open source contributions
+
+<div align="center">
+  <a href="mailto:ngtbharath@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Get%20In%20Touch-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Contact" height="40"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ **Technical Arsenal - Premium Edition**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="50">
+</div>
+
+### 🎨 **Frontend Mastery**
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26" alt="HTML5"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6" alt="CSS3"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E" alt="JavaScript"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8511FA&color=8511FA" alt="Bootstrap"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=61DAFB" alt="React"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=06B6D4" alt="Tailwind"/>
+</td>
+</tr>
+</table>
+
+### ☕ **Backend & Programming Excellence**
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=ED8B00" alt="Java"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=339933" alt="Node.js"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&color=00599C" alt="C"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=000000" alt="Express"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=6DB33F" alt="Spring"/>
+</td>
+</tr>
+</table>
+
+### 🤖 **AI & Machine Learning**
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=FF6F00&color=FF6F00" alt="TensorFlow"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E&color=F7931E" alt="scikit-learn"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C&color=EE4C2C" alt="PyTorch"/>
+</td>
+</tr>
+</table>
+
+### ☁️ **Cloud & DevOps**
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900&color=FF9900" alt="AWS"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED" alt="Docker"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF&color=2088FF" alt="GitHub Actions"/>
+</td>
+</tr>
+</table>
+
+### 📱 **Mobile & Other Technologies**
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84&color=3DDC84" alt="Android"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=00979D&color=00979D" alt="Arduino"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=F05032" alt="Git"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **Advanced Analytics Dashboard**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40">
+</div>
+
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatn-b100&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF00FF&card_width=500" alt="GitHub Stats"/>
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatn-b100&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF00FF&point=00FFFF&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🐍 **Contribution Snake Animation**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bharatn-b100/bharatn-b100/output/snake.svg" alt="Snake animation"/>
@@ -233,16 +376,37 @@ I'm a **passionate frontend developer** with a strong foundation in **Java** and
 
 ---
 
-## 📈 Activity Heatmap
+## 🌟 **Premium Footer**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatn-b100&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="40">
+    <strong>Thank You for Visiting My Profile!</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="40">
+  </h2>
+  
+  <p><strong>🚀 Let's Build Something Amazing Together! 🚀</strong></p>
+  
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/bharatn-b100">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/bharath-raj143">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ngtbharath@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
+    </a>
+  </div>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bharatn-b100/bharatn-b100/main/line.gif" width="100%">
-  <h3>✨ Thank you for visiting my profile! ✨</h3>
-  <p>Feel free to explore my repositories and let's build something amazing together!</p>
+  <p><strong>💼 Available for Hire | 🤝 Open to Collaboration | 🌟 Always Learning</strong></p>
+  <p><em>Built with passion, dedication, and lots of ☕ coffee!</em></p>
 </div>
