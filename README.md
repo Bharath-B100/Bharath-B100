@@ -40,7 +40,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="40%" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/236119928-3ab8afd3-200e-4be8-b58d-4bdc0aefb73b.gif" width="300" alt="Coding Gif" />
+      <img src="https://drive.google.com/file/d/1dnc3sAKSUQVrgq_hecOHp8t2vaHAssiN/view?usp=drive_link" width="300" alt="Coding Gif" />
     </td>
     <td width="60%" valign="top">
       <pre>
