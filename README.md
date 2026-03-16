@@ -123,7 +123,7 @@
       <strong>🌍 Tourism Applications</strong>
     </td>
     <td align="center" bgcolor="0D1117" style="border-radius: 15px; padding: 20px; border: 1px solid #FF00FF;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50" /><br/>
+      <img src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/AIML-brain2.gif" width="50" /><br/>
       <strong>🧠 AI & ML</strong>
     </td>
     <td align="center" bgcolor="0D1117" style="border-radius: 15px; padding: 20px; border: 1px solid #00FFFF;">
