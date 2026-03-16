@@ -40,7 +40,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="40%" valign="top">
-      <img src="https://drive.google.com/file/d/1dnc3sAKSUQVrgq_hecOHp8t2vaHAssiN/view?usp=drive_link" width="300" alt="Coding Gif" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXcwaGxxenRuZGM5c3dqdnNteHJxbHBuY2hmOTd2dTdtaHF3cGl0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="300" alt="Coding Gif" />
     </td>
     <td width="60%" valign="top">
       <pre>
