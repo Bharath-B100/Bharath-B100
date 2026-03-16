@@ -47,10 +47,10 @@
 ┌─────────────────────────────────────┐
 │  SYSTEM ID: BHARATH RAJ B           │
 │  ROLE:       FULL-STACK ARCHITECT   │
-│  STATUS:     ONLINE // ACTIVE        │
-│  CORE:       JAVA, PYTHON, REACT     │
-│  FOCUS:      AI / TOURISM TECH       │
-│  MISSION:    BUILD SCALABLE WORLDS   │
+│  STATUS:     ONLINE // ACTIVE       │
+│  CORE:       JAVA, PYTHON, REACT    │
+│  FOCUS:      AI / TOURISM TECH      │
+│  MISSION:    BUILD SCALABLE WORLDS  │
 └─────────────────────────────────────┘
       </pre>
       <p><strong>I architect robust, futuristic web applications and explore the frontiers of AI & ML. Passionate about open source and crafting seamless digital experiences.</strong></p>
@@ -167,18 +167,6 @@
 
 ---
 
-<!-- SECTION: SNAKE CONTRIBUTION ANIMATION -->
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" />
-    CONTRIBUTION // SNAKE
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" />
-  </h2>
-  <img src="https://raw.githubusercontent.com/Bharath-B100/Bharath-B100/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 <!-- SECTION: PORTFOLIO CALL TO ACTION -->
 <div align="center">
   <h2>
@@ -199,9 +187,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   <br/><br/>
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" />
     Let's build something amazing together.
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" />
   </h2>
   <p>
     <a href="https://github.com/Bharath-B100"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
